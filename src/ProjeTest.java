@@ -178,7 +178,7 @@ public class ProjeTest extends BaseDriver {
         driverBekleKapat();
     }
     @Test
-    public void soru5(){
+    public void Test5(){
 
         driver.get("https://shopdemo.e-junkie.com/");
 
